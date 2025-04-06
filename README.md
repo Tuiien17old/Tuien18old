@@ -7,7 +7,7 @@
 📚 Không ngừng học hỏi các công nghệ mới để cải thiện kỹ năng lập trình.  
 
 ## 🔧 Kỹ năng của tôi
-- **Ngôn ngữ lập trình:** Dart  
+- **Ngôn ngữ lập trình:** Dart , Python, C/C++
 - **Framework:** Flutter  
 - **Networking:** HTTP  
 - **CI/CD:** Codemagic, GitHub Actions
