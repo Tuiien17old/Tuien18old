@@ -21,7 +21,7 @@
 
  ## 📫 Liên hệ với tôi
 📧 Email: phamvantuyen170305@gmail.com
-💼 LinkedIn:  
+
 
 <!--
 **Tuien18old/Tuien18old** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
