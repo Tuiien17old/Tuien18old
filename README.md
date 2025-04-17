@@ -11,6 +11,7 @@
 - **Framework:** Flutter  
 - **Networking:** HTTP  
 - **CI/CD:** Codemagic, GitHub Actions
+- **DATA BASE:** SQL server, SQLite
 
 ## 📚 Tài nguyên Flutter yêu thích
 🔹 [Flutter Documentation](https://flutter.dev/docs)  
