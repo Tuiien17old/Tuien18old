@@ -1,22 +1,27 @@
 ## Hi there! my name is Phạm Văn Tuyến.👋
 
 ## 🚀 Về tôi
-💡 Tôi là một **Flutter Developer** đam mê phát triển ứng dụng di động đa nền tảng.  
-📱 Có kinh nghiệm xây dựng ứng dụng trên cả **Android** và **iOS** với **Flutter & Dart**.  
-💻 Yêu thích UI/UX và luôn tìm kiếm giải pháp tối ưu cho hiệu suất ứng dụng.  
-📚 Không ngừng học hỏi các công nghệ mới để cải thiện kỹ năng lập trình.  
+💡 Tôi là một người xuất thân từ ngành Công nghệ phần mềm với nền tảng vững chắc về lập trình, tư duy hệ thống và giải quyết vấn đề. Trong quá trình học tập và làm việc, tôi dần nhận ra niềm đam mê đặc biệt với trải nghiệm người dùng và thiết kế giao diện. Từ đó, tôi quyết định chuyển hướng sang lĩnh vực UI/UX Design với mong muốn tạo ra những sản phẩm không chỉ hoạt động hiệu quả mà còn mang lại giá trị sử dụng cao và cảm xúc tích cực cho người dùng.
 
 ## 🔧 Kỹ năng của tôi
-- **Ngôn ngữ lập trình:** Dart , Python, C/C++
-- **Framework:** Flutter  
-- **Networking:** HTTP  
-- **CI/CD:** Codemagic, GitHub Actions
-- **DATABASE:** SQL server, SQLite
+🎨 Thiết kế giao diện (UI): Thành thạo sử dụng Figma, Adobe XD để thiết kế layout, hệ thống màu sắc, typography, biểu tượng, và các thành phần UI chuẩn theo thiết kế hiện đại.
 
-## 📚 Tài nguyên Flutter yêu thích
-🔹 [Flutter Documentation](https://flutter.dev/docs)  
-🔹 [Awesome Flutter](https://github.com/Solido/awesome-flutter)  
-🔹 [FlutterFire (Firebase for Flutter)](https://firebase.flutter.dev/)  
+🧠 Trải nghiệm người dùng (UX): Có kiến thức về nghiên cứu người dùng, xây dựng user persona, user flow, wireframe và prototype; biết cách thu thập và phân tích phản hồi người dùng.
+
+💻 Kiến thức kỹ thuật: Hiểu cách triển khai thiết kế qua HTML/CSS, JavaScript hoặc Flutter; có thể cộng tác hiệu quả với developer team.
+
+🔄 Tư duy hệ thống & logic: Kỹ năng từ ngành phần mềm giúp tôi xây dựng quy trình thiết kế hợp lý, có khả năng tổ chức hệ thống thông tin và hiểu sâu về hành vi người dùng trong môi trường số.
+
+🤝 Kỹ năng mềm: Làm việc nhóm, thuyết trình, phản biện ý tưởng, kỹ năng học hỏi nhanh và thích nghi cao.
+
+## Công cụ sử dụng
+Thiết kế UI/UX: Figma, Adobe XD, Sketch, Miro
+
+Prototyping: Figma (Prototype)
+
+Nghiên cứu UX: Maze, Lookback, Google Forms
+
+Phát triển frontend cơ bản: HTML, CSS, JavaScript, ReactJS, Flutter 
 
 
  ## 📫 Liên hệ với tôi
