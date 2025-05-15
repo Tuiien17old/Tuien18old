@@ -1,4 +1,5 @@
 ## Hi there! my name is Phạm Văn Tuyến.👋
+**Software Engineer ➡️ UI/UX Designer**
 
 ## 🚀 Về tôi
 💡 Tôi là một người xuất thân từ ngành Công nghệ phần mềm với nền tảng vững chắc về lập trình, tư duy hệ thống và giải quyết vấn đề. Trong quá trình học tập và làm việc, tôi dần nhận ra niềm đam mê đặc biệt với trải nghiệm người dùng và thiết kế giao diện. Từ đó, tôi quyết định chuyển hướng sang lĩnh vực UI/UX Design với mong muốn tạo ra những sản phẩm không chỉ hoạt động hiệu quả mà còn mang lại giá trị sử dụng cao và cảm xúc tích cực cho người dùng.
@@ -14,14 +15,11 @@
 
 🤝 Kỹ năng mềm: Làm việc nhóm, thuyết trình, phản biện ý tưởng, kỹ năng học hỏi nhanh và thích nghi cao.
 
-## Công cụ sử dụng
-Thiết kế UI/UX: Figma, Adobe XD, Sketch, Miro
+## 🔹 Công cụ yêu thích
 
-Prototyping: Figma (Prototype)
-
-Nghiên cứu UX: Maze, Lookback, Google Forms
-
-Phát triển frontend cơ bản: HTML, CSS, JavaScript, ReactJS, Flutter 
+| Thiết kế UI/UX | Prototyping  | Nghiên cứu UX | Phát triển Frontend |
+|:--------------:|:------------:|:-------------:|:-------------------:|
+| Figma          | InVision     | Maze, Lookback| HTML, CSS, JavaScript,Flutter |
 
 
  ## 📫 Liên hệ với tôi
