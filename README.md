@@ -1,15 +1,22 @@
 ## Hi there! my name is Phạm Văn Tuyến.👋
-**Software Engineer ➡️ UI/UX Designer**
+**Software Engineer**
 
 ## 🚀 Về tôi
-💡 Tôi là một người xuất thân từ ngành Công nghệ phần mềm với nền tảng vững chắc về lập trình, tư duy hệ thống và giải quyết vấn đề. Trong quá trình học tập và làm việc, tôi dần nhận ra niềm đam mê đặc biệt với trải nghiệm người dùng và thiết kế giao diện. Từ đó, tôi quyết định chuyển hướng sang lĩnh vực UI/UX Design với mong muốn tạo ra những sản phẩm không chỉ hoạt động hiệu quả mà còn mang lại giá trị sử dụng cao và cảm xúc tích cực cho người dùng.
+💡 Tôi là một lập trình viên Front-end & React Native, xuất thân từ chuyên ngành Công nghệ phần mềm với nền tảng vững chắc về lập trình, tư duy logic và khả năng giải quyết vấn đề. Trong quá trình học tập và làm việc, tôi có niềm đam mê với việc tạo ra những giao diện đẹp mắt, trải nghiệm người dùng mượt mà và hiệu quả. Điều này làm tôi theo đuổi sâu hơn lĩnh vực Front-end Development (ReactJS, NextJS) và Mobile Development (React Native).Với kiến thức vững về JavaScript/TypeScript, cùng kinh nghiệm làm việc với các framework hiện đại, tôi hướng đến việc xây dựng những sản phẩm đa nền tảng (web & mobile), không chỉ hoạt động ổn định mà còn có UI/UX được tối ưu, mang lại trải nghiệm nhất quán và cảm xúc tích cực cho người dùng. Mục tiêu là không ngừng nâng cao kỹ năng để phát triển các ứng dụng chất lượng cao – mạnh về chức năng, đẹp về giao diện, và trơn tru về trải nghiệm.
 
 ## 🔧 Kỹ năng của tôi
-🎨 Thiết kế giao diện (UI): Thành thạo sử dụng Figma, Adobe XD để thiết kế layout, hệ thống màu sắc, typography, biểu tượng, và các thành phần UI chuẩn theo thiết kế hiện đại.
+🎨 Front-end Development
+JavaScript/TypeScript: Thành thạo lập trình ứng dụng web và mobile.
+
+ReactJS/NextJS: Xây dựng ứng dụng web hiệu suất cao, SEO-friendly.
+
+React Native: Phát triển ứng dụng mobile đa nền tảng.
+
+HTML/CSS: Viết mã giao diện responsive, tối ưu trải nghiệm người dùng.
+
+🎨 Thiết kế giao diện (UI): Thành thạo sử dụng Figma, hệ thống màu sắc, typography, biểu tượng, và các thành phần UI chuẩn theo thiết kế hiện đại.
 
 🧠 Trải nghiệm người dùng (UX): Có kiến thức về nghiên cứu người dùng, xây dựng user persona, user flow, wireframe và prototype; biết cách thu thập và phân tích phản hồi người dùng.
-
-💻 Kiến thức kỹ thuật: Hiểu cách triển khai thiết kế qua HTML/CSS, JavaScript hoặc Flutter; có thể cộng tác hiệu quả với developer team.
 
 🔄 Tư duy hệ thống & logic: Kỹ năng từ ngành phần mềm giúp tôi xây dựng quy trình thiết kế hợp lý, có khả năng tổ chức hệ thống thông tin và hiểu sâu về hành vi người dùng trong môi trường số.
 
@@ -17,13 +24,15 @@
 
 ## 🔹 Công cụ yêu thích
 
-| Thiết kế UI/UX | Prototyping  | Nghiên cứu UX | Phát triển Frontend |
-|:--------------:|:------------:|:-------------:|:-------------------:|
-| Figma          | InVision     | Maze, Lookback| HTML, CSS, JavaScript,Flutter |
+| Thiết kế UI/UX | Prototyping   | Nghiên cứu UX | Phát triển Frontend |
+|:--------------:|:-------------:|:-------------:|:-------------------:|
+| Figma          |Figma Prototype| Maze, Lookback| HTML, CSS, JavaScript,TypeScrip, React, Next.js|
+
 
 
  ## 📫 Liên hệ với tôi
 📧 Email: phamvantuyen170305@gmail.com
+📧 SĐT: 0705104643
 
 
 <!--
